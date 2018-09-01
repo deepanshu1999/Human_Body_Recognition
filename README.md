@@ -3,10 +3,16 @@ This is a project on Image recognition. It Identifies basic features of human th
 
 
 -Full Face
+
 -Eyes
+
 -Upper Body
+
 -Lower Body
+
 -Smile
+
+
 # Tech
 - [OpenCV](https://github.com/opencv/opencv)
 - [Haarcascade](https://github.com/opencv/opencv/tree/master/data/haarcascades)
