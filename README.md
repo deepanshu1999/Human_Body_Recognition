@@ -1,5 +1,7 @@
 # Face_Recognition
 This is a project on Image recognition. It Identifies basic features of human that include
+
+
 -Full Face
 -Eyes
 -Upper Body
@@ -8,5 +10,5 @@ This is a project on Image recognition. It Identifies basic features of human th
 # Tech
 - [OpenCV](https://github.com/opencv/opencv)
 - [Haarcascade](https://github.com/opencv/opencv/tree/master/data/haarcascades)
-- [Python]
-- Jupyter Notebook
+- [Python](www.python.org)
+- [Jupyter Notebook](http://jupyter.org/)
