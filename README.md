@@ -1,4 +1,4 @@
-# Face_Recognition
+# Human_Recognition
 This is a project on Image recognition. It Identifies basic features of human that include
 
 
